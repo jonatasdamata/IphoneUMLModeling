@@ -1,6 +1,6 @@
 package iphone;
 
-public interface Interface {
+public interface ComandosIphone {
     public void desbloquarIphone();
     public void bloquearTela();
     public void fecharAplicativoAtual();
