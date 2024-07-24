@@ -3,7 +3,7 @@
 
 ## Descrição
 
-Este projeto simula a funcionalidade de um iPhone com três aplicativos principais: Reprodutor Musical, Aparelho Telefônico e Navegador na Internet. Cada aplicativo possui funcionalidades específicas e a interface `ComandosIphone` fornece métodos comuns para desbloquear o iPhone, bloquear a tela e fechar o aplicativo atual.
+Este projeto em Java simula a funcionalidade de um iPhone com três aplicativos principais: Reprodutor Musical, Aparelho Telefônico e Navegador na Internet. Cada aplicativo possui funcionalidades específicas e a interface `ComandosIphone` fornece métodos comuns para desbloquear o iPhone, bloquear a tela e fechar o aplicativo atual.
 
 ## Funcionalidades
 
